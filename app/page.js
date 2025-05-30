@@ -74,7 +74,7 @@ const Index = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <CTAButton variant="primary" size="lg">
                 <ExternalLink className="w-5 h-5 mr-2" />
-                Try Live Demo
+                Generate Roadmap
               </CTAButton>
               <CTAButton variant="secondary" size="lg">
                 <Github className="w-5 h-5 mr-2" />
